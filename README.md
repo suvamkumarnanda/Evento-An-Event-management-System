@@ -48,7 +48,7 @@ Cd api - For Backend
 
 4. Create a .env file in the root directory with the following content, and replace placeholders with your own values.
 
-MONGODB_URI=mongodb://localhost:your-mongodb-port /your-database-name.
+MONGODB_URL=mongodb://localhost:your-mongodb-port /your-database-name.
 
 5. Start the api .
 Evento/api> nodemon start
